@@ -1,0 +1,14 @@
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\bin\Debug\net10.0\Bai1_BTC2.exe
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\bin\Debug\net10.0\Bai1_BTC2.deps.json
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\bin\Debug\net10.0\Bai1_BTC2.runtimeconfig.json
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\bin\Debug\net10.0\Bai1_BTC2.dll
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\bin\Debug\net10.0\Bai1_BTC2.pdb
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\Bai1_BTC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\Bai1_BTC2.AssemblyInfoInputs.cache
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\Bai1_BTC2.AssemblyInfo.cs
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\Bai1_BTC2.csproj.CoreCompileInputs.cache
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\Bai1_BTC2.dll
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\refint\Bai1_BTC2.dll
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\Bai1_BTC2.pdb
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\Bai1_BTC2.genruntimeconfig.cache
+D:\hoc\laptrinhc#\BTTHC2\TH1\Bai1_BTC2\obj\Debug\net10.0\ref\Bai1_BTC2.dll

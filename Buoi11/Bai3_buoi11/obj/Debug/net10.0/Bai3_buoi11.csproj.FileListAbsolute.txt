@@ -1,0 +1,14 @@
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\bin\Debug\net10.0\Bai3_buoi11.exe
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\bin\Debug\net10.0\Bai3_buoi11.deps.json
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\bin\Debug\net10.0\Bai3_buoi11.runtimeconfig.json
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\bin\Debug\net10.0\Bai3_buoi11.dll
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\bin\Debug\net10.0\Bai3_buoi11.pdb
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\Bai3_buoi11.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\Bai3_buoi11.AssemblyInfoInputs.cache
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\Bai3_buoi11.AssemblyInfo.cs
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\Bai3_buoi11.csproj.CoreCompileInputs.cache
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\Bai3_buoi11.dll
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\refint\Bai3_buoi11.dll
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\Bai3_buoi11.pdb
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\Bai3_buoi11.genruntimeconfig.cache
+D:\hoc\laptrinhc#\Buoi11\Bai3_buoi11\obj\Debug\net10.0\ref\Bai3_buoi11.dll

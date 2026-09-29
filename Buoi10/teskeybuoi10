@@ -1,0 +1,28 @@
+Bai1
+input: 3, 8, 2, 9, 4, 1
+Tong cac phan tu cuc tri co trong day so: 17
+
+input: 1 2 3 4 5
+Tong cac phan tu cuc tri co trong day so: 0
+--------------------------------------------------
+Bai2
+input: 1, -2, 3, -4, 5
+So luong cac phan tu ke nhau ma trai dau: 4
+
+input: 10 20 30 -5 -15 -25
+So luong cac phan tu ke nhau ma trai dau: 1
+--------------------------------------------------
+Bai3
+input: -5, 10, -15, 20, -25, 30
+Day so tren la day dan dau.
+
+input: 2, -4, 6, 8, -10
+Day so tren khong phai la day dan dau.
+--------------------------------------------------
+Bai4
+input: 1, -1, 5, -2, 3, 1, -1, 2 | k = 3
+Doan [0, 3] dai nhat co tong bang 3: 1 -1 5 -2
+
+input: 2, 2, 2, 2 
+k = 5
+Day so khong co doan nao thoa man.

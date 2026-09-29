@@ -1,0 +1,14 @@
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\Bai2.3mang1chieu_BTC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\Bai2.3mang1chieu_BTC2.AssemblyInfoInputs.cache
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\Bai2.3mang1chieu_BTC2.AssemblyInfo.cs
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\Bai2.3mang1chieu_BTC2.csproj.CoreCompileInputs.cache
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\bin\Debug\net10.0\Bai2.3mang1chieu_BTC2.exe
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\bin\Debug\net10.0\Bai2.3mang1chieu_BTC2.deps.json
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\bin\Debug\net10.0\Bai2.3mang1chieu_BTC2.runtimeconfig.json
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\bin\Debug\net10.0\Bai2.3mang1chieu_BTC2.dll
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\bin\Debug\net10.0\Bai2.3mang1chieu_BTC2.pdb
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\Bai2.3mang1chieu_BTC2.dll
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\refint\Bai2.3mang1chieu_BTC2.dll
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\Bai2.3mang1chieu_BTC2.pdb
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\Bai2.3mang1chieu_BTC2.genruntimeconfig.cache
+D:\hoc\laptrinhcsharp\BTTHC2\TH02\Bai2.3mang1chieu_BTC2\obj\Debug\net10.0\ref\Bai2.3mang1chieu_BTC2.dll

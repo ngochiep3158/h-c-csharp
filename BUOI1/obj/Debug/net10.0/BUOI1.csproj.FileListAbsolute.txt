@@ -1,0 +1,14 @@
+D:\hoc\laptrinhc#\BUOI1\bin\Debug\net10.0\BUOI1.exe
+D:\hoc\laptrinhc#\BUOI1\bin\Debug\net10.0\BUOI1.deps.json
+D:\hoc\laptrinhc#\BUOI1\bin\Debug\net10.0\BUOI1.runtimeconfig.json
+D:\hoc\laptrinhc#\BUOI1\bin\Debug\net10.0\BUOI1.dll
+D:\hoc\laptrinhc#\BUOI1\bin\Debug\net10.0\BUOI1.pdb
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\BUOI1.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\BUOI1.AssemblyInfoInputs.cache
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\BUOI1.AssemblyInfo.cs
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\BUOI1.csproj.CoreCompileInputs.cache
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\BUOI1.dll
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\refint\BUOI1.dll
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\BUOI1.pdb
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\BUOI1.genruntimeconfig.cache
+D:\hoc\laptrinhc#\BUOI1\obj\Debug\net10.0\ref\BUOI1.dll
